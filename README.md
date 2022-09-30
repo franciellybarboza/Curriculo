@@ -82,7 +82,8 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
 - Comunicação <br>
 🠖ㅤTermino: 07/06/2022 <br>
     
-    - **Periodo de atividades 11 de abril até 08 de novembro 2022**
+    - **Periodo de atividades 11 de abril até 08 de novembro 2022** <br>
+    obs: ainda estou cursando, mas esses são alguns cursos ja terminados durante a trajetoria até agora.
  
         <br>
       <br>
