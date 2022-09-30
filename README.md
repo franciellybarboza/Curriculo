@@ -28,7 +28,7 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
     Sinceridade             Nunca trabalhei em empresa, mas tenho certeza que irei me adabtar rapido
     Pontualidade            Lerda, mas tento o maximo prestar atenção para aprender algo novo
     Proatividade            indecisa
-    organizadora
+    organizada
     
    <br>
     <br>
