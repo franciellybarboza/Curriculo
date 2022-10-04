@@ -163,7 +163,7 @@ nas minhas redes sociais abaixo. <br>
  <a href="https://www.instagram.com/d___elly/">
   <img align="center" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
-<a href="https://twitter.com/m___hii">
+<a href="https://twitter.com/d___elly">
   <img align="center" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/francielly-barboza-serraglio-3905a2237/">
