@@ -26,8 +26,8 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
     QUALIDADE               DEFEITOS
     Flexibilidade           No inicio sou timida mas com decorrer vou me socializando
     Sinceridade             Nunca trabalhei em empresa, mas tenho certeza que irei me adabtar rapido
-    Pontualidade            Lerda, mas tento o maximo prestar atenção para aprender algo novo
-    Proatividade            indecisa
+    Pontualidade            Indecisa
+    Proatividade            
     organizada
     
    <br>
