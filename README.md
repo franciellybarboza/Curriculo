@@ -26,7 +26,7 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
     QUALIDADE               DEFEITOS
     Flexibilidade           No inicio sou timida mas com decorrer vou me socializando
     Sinceridade             Nunca trabalhei em empresa, mas tenho certeza que irei me adabtar rapido
-    Pontualidade            Indecisa
+    Pontualidade            
     Proatividade            
     organizada
     
@@ -162,9 +162,6 @@ nas minhas redes sociais abaixo. <br>
     
  <a href="https://www.instagram.com/d___elly/">
   <img align="center" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
-</a>
-<a href="https://twitter.com/d___elly">
-  <img align="center" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/francielly-barboza-serraglio-3905a2237/">
   <img align="center" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
