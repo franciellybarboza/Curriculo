@@ -152,7 +152,7 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
     <br>
       <br>
     
-<img width="35%" align="right" src="https://user-images.githubusercontent.com/107949500/193162467-f5f75099-c960-463d-9eff-39cdf381e746.jpg">
+<img width="35%" align="right" src="https://user-images.githubusercontent.com/107949500/196527835-b09d7d0f-974f-48f2-8154-503fd72d0c8a.jpg">
 
     
 Agradeço por lerem até aqui, caso queiram <br> 
