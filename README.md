@@ -126,7 +126,7 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
 🠖ㅤVScode <br>
 🠖ㅤAdobe XD <br>
 🠖ㅤIbisPaint <br>
-🠖ㅤNicePages <br>
+🠖ㅤFigma <br>
 
   
   <br>
