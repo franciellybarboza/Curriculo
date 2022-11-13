@@ -124,7 +124,6 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
 
 #### 🛠️ Ferramentas
 🠖ㅤVScode <br>
-🠖ㅤAdobe XD <br>
 🠖ㅤIbisPaint <br>
 🠖ㅤFigma <br>
 
