@@ -110,7 +110,8 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
 # 👾 Skills
 
 #### 📓 Atividades
-🠖ㅤDesigner <br>
+🠖ㅤUX Designer <br>
+🠖ㅤUI Designer <br>
 🠖ㅤAdmistradora <br>
 🠖ㅤConteúdos para mídias sociais <br>
 
