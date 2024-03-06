@@ -13,8 +13,8 @@
   # 👧🏻 sobre mim
   <img width="25%" align="right" src="https://user-images.githubusercontent.com/107949500/193146122-ac2ca890-ee88-4909-b8d3-475ecfa9fa9f.png">
   
-Olá, me chamo Francielly tenho 17 anos, sou do Rio Grande do sul, Alvorada, e sou desenvolvedora de front end.
-Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não imaginava me indentificar tanto nessa área, já me vi em outras áreas, mas nunca na programação em ci. Em 2019, iniciei meu primeiro curso como gestão empresarial, foi um grande passo pois ali aprendi admistrar melhor até meu prórprio dinheiro, minha vida pessoal, academica e profissional um grande passo e portas se abriram para mim, infelizmente depois 2019 veio pandemia mas tive mais tempo para fazer mais curso que logo no topico [📓 Formação acadêmica](#-formação-acadêmica) terá mais informação mais completas, mas pulando para hoje e agora, tenho me orgulhado muito de mim sobre até onde cheguei, atualmete não tenho experiencia de mercado de trabalho, mas sei muito bem, me socialiazr ter agumentativos bem elaborados.
+Olá, me chamo Francielly tenho 19 anos, sou do Rio Grande do sul, Alvorada, e sou desenvolvedora de front end, area Administrativa e estudante técnico de Enfermagem.
+Profissional administrativa motivada e dinâmica buscando utilizar meus talentos para beneficiar uma missão maior. Versada na realização de multitarefas, organização, agendamento e manipulação de uma variedade de tarefas administrativas. Comprometida com a finalização de projetos de forma oportuna, ordenada e precisa.
   
  <img width="25%" align="left" src="https://user-images.githubusercontent.com/107949500/193148120-68d584ee-5a6e-431c-8a2e-aae4aa5463a9.png">
  
@@ -24,9 +24,9 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
 
 
     QUALIDADE               DEFEITOS
-    Flexibilidade           No inicio sou timida mas com decorrer vou me socializando
-    Sinceridade             Nunca trabalhei em empresa, mas tenho certeza que irei me adabtar rapido
-    Pontualidade            
+    Flexibilidade           Timidez
+    Aprende rapido          Dificuldade para socializar
+    Pontualidade            Pouca experiência
     Proatividade            
     organizada
     
@@ -38,6 +38,27 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
       <br>
 
 # 📓 Formação acadêmica
+
+🏫ﾠ**Escola:** [Escola VAle Verde](https://www.escolavaleverdealvorada.com.br/) <br>
+
+#### 📓ﾠ**Completo** <br>
+- Ensino médio
+    
+     <br>
+      <br>
+🏫ﾠ**Escola:** [ESCOLA QI & FACULDADE TÉCNICA](https://lp.qi.edu.br/institucional/?utm_source=Google&utm_medium=cpc&utm_campaign=institucional&utm_content&utm_term=qi+alvorada&adcampaign=20286668599&groupid=148214337737&adid=662678560074&mga=1&keyword=qi+alvorada&gad_source=1&gclid=CjwKCAiAxaCvBhBaEiwAvsLmWCKJ7PzLae3ZTWcYwGuwTHGdUMnWZcQaLmFd1d2Wafi8HmlNxlf7AhoCHQUQAvD_BwE) <br>
+
+#### 📓ﾠ**O que aprendi:** <br>
+- Técnico de Enfermagem (inicio março/2023 - termino setembro/2026)  <br>
+🠖ㅤModulo 1: Concluído  <br>
+🠖ㅤModulo 2 e 3: Em andamento  <br>
+🠖ㅤEstagio incluso final do curso  <br>
+🠖ㅤÉtica e trabalho da enfermagem do banco de sangue - 2hrs  <br>
+🠖ㅤTrabalho da Enfermagem na UTI Pediátrica do Hospital Santo Antônio da Santa Casa de Misericórdia de Porto Alegre - 2hrs  <br>
+🠖ㅤCarta de recomendação disciplina Ética na Assistência de Enfermagem pela QI Faculdade e Escola Técnica  <br>
+    
+     <br>
+      <br>
 
 🏫ﾠ**Escola:** [AVA Pensar cursos](https://pensarconcursos.com/?gclid=CjwKCAjwhNWZBhB_EiwAPzlhNvAWq83U7TXiQ_t068KjGteOTBt3zi6rpbthW-yhNunfwDN-C5ddqxoCHQkQAvD_BwE) <br>
 
@@ -60,17 +81,13 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
 - Lógica de Programação <br>
 🠖ㅤTermino: 18/02/2022 <br>
     
-- HTML5 e CSS3 (parte 1, 2, 3, 4) <br>
+- HTML5 e CSS3 (parte 1, 2, 3) <br>
 🠖ㅤTermino 1: 22/08/2022 <br>
 🠖ㅤTermino 2: 29/08/2022 <br>
 🠖ㅤTermino 3: 06/09/2022 <br>
-🠖ㅤTermino 4: em andamento <br>
     
 - JavaScript e HTML <br>
     🠖ㅤTermino: 23/05/2022 <br>
-
-- GIT e GitHub <br>
-    🠖ㅤTermino: 18/07/2022 <br>
     
 - Front-end <br>
     🠖ㅤTermino: 13/09/2022 <br>
@@ -152,7 +169,7 @@ Eu sempre gostei tecnologia, até que nasci numa familia tecnologica, mas não i
     <br>
       <br>
     
-<img width="35%" align="right" src="https://user-images.githubusercontent.com/107949500/196527835-b09d7d0f-974f-48f2-8154-503fd72d0c8a.jpg">
+<img width="35%" align="right" src="https://github.com/franciellybarboza/Curriculo/assets/107949500/24be957f-8a13-4011-b19c-7a64d1f7e178">
 
     
 Agradeço por lerem até aqui, caso queiram <br> 
