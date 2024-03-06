@@ -11,12 +11,12 @@
   <img width="100%" align="center" src="https://user-images.githubusercontent.com/107949500/193144996-21b0d5a6-ee11-40db-b8b3-6293aafc2578.gif">
   
   # 👧🏻 sobre mim
-  <img width="25%" align="right" src="https://user-images.githubusercontent.com/107949500/193146122-ac2ca890-ee88-4909-b8d3-475ecfa9fa9f.png">
+  <img width="30%" align="right" src="https://github.com/franciellybarboza/Curriculo/assets/107949500/c71dfaf0-b183-4797-b517-6c43d90ae463">
   
 Olá, me chamo Francielly tenho 19 anos, sou do Rio Grande do sul, Alvorada, e sou desenvolvedora de front end, area Administrativa e estudante técnico de Enfermagem.
 Profissional administrativa motivada e dinâmica buscando utilizar meus talentos para beneficiar uma missão maior. Versada na realização de multitarefas, organização, agendamento e manipulação de uma variedade de tarefas administrativas. Comprometida com a finalização de projetos de forma oportuna, ordenada e precisa.
   
- <img width="25%" align="left" src="https://user-images.githubusercontent.com/107949500/193148120-68d584ee-5a6e-431c-8a2e-aae4aa5463a9.png">
+ <img width="30%" align="left" src="https://github.com/franciellybarboza/Curriculo/assets/107949500/8dd722bb-7c83-4969-abf8-0f4e37b0f627">
  
   <div align="right-center" width="100%">
  meus pontos fortes de mim que sou muito observadora do que acontece em minha volta, assim aprendo mais para ser uma grande pessoa no futuro profissional.
@@ -39,10 +39,10 @@ Profissional administrativa motivada e dinâmica buscando utilizar meus talentos
 
 # 📓 Formação acadêmica
 
-🏫ﾠ**Escola:** [Escola VAle Verde](https://www.escolavaleverdealvorada.com.br/) <br>
+🏫ﾠ**Escola:** [Escola Vale Verde](https://www.escolavaleverdealvorada.com.br/) <br>
 
-#### 📓ﾠ**Completo** <br>
-- Ensino médio
+#### 📓ﾠ**Ensino médio** <br>
+- Completo
     
      <br>
       <br>
@@ -71,10 +71,11 @@ Profissional administrativa motivada e dinâmica buscando utilizar meus talentos
 🠖ㅤInicio: 12/11/2021  <br>
 🠖ㅤTermino: 18/02/2022 <br>
     
-     <br>
-      <br>
-    
-    🏫ﾠ**Escola:** [#TeuFuturo](https://www.imed.edu.br/institucional/responsabilidade-social/-teufuturo-1) <br>
+
+ <img width="30%" align="center" src="https://github.com/franciellybarboza/Curriculo/assets/107949500/072480c3-f065-4435-ab07-c5e5c8cc36d7"> <br>
+     
+
+🏫ﾠ**Escola:** [#TeuFuturo](https://www.imed.edu.br/institucional/responsabilidade-social/-teufuturo-1) <br>
 
 #### 📓ﾠ**O que aprendi:** <br>
     
@@ -127,11 +128,12 @@ Profissional administrativa motivada e dinâmica buscando utilizar meus talentos
 # 👾 Skills
 
 #### 📓 Atividades
-🠖ㅤUX Designer <br>
-🠖ㅤUI Designer <br>
-🠖ㅤAdmistradora <br>
-🠖ㅤConteúdos para mídias sociais <br>
-
+🠖ㅤProgramação <br>
+🠖ㅤDesigner geral <br>
+🠖ㅤAdministração <br>
+🠖ㅤTécnica de Enfermagem <br>
+   <br>
+   
 #### 👩🏻‍💻 Programação
 🠖ㅤHTML5 <br>
 🠖ㅤCSS3 <br>
@@ -139,11 +141,27 @@ Profissional administrativa motivada e dinâmica buscando utilizar meus talentos
 🠖ㅤGitHub <br>
 🠖ㅤGIT <br>
 🠖ㅤJava <br>
+   <br>
 
-#### 🛠️ Ferramentas
+#### 👩🏻‍💻 Designer geral
+[Portfolio](https://drive.google.com/drive/u/0/folders/1CnNAEVWgXSoJK9mzJGQPK7xUq6gGyEAI) <br>
 🠖ㅤVScode <br>
-🠖ㅤIbisPaint <br>
+🠖ㅤCanva <br>
 🠖ㅤFigma <br>
+   <br>
+   
+#### 👩🏻‍💻 Administração
+🠖ㅤExcel <br>
+🠖ㅤLogística <br>
+🠖ㅤMarketing <br>
+🠖ㅤFinanças <br>
+   <br>
+   
+#### 👩🏻‍💻 Técnico de Enfermagem
+🠖ㅤconhecimento pulsão venosa <br>
+🠖ㅤBanho de Leito <br>
+🠖ㅤauxiliar em reanimação de paciente <br>
+🠖ㅤRealização de curativos e cuidados com feridas <br>
 
   
   <br>
