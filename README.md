@@ -195,7 +195,7 @@ entrar em contato comigo, podem me chamar <br>
 nas minhas redes sociais abaixo. <br>
    
     
- <a href="https://www.instagram.com/d___elly/">
+ <a href="https://www.instagram.com/serragliofran/">
   <img align="center" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/francielly-barboza-serraglio-3905a2237/">
